@@ -28,3 +28,5 @@
 	that stores information about what will go into your next commit.
 
 	Repository: The Git directory is where Git stores the metadata and object database for your project.
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	þegar það er unnið í verkefnið þegar það er fleiri en ein.
