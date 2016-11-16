@@ -1,1 +1,7 @@
-Git spurningar og svör
+﻿Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd	: fer í $HOME skránna
+	cd ~	: fer upp skref í skrá treið
+	ls	: sýnir öll upplýsinga um skjölinn eða skránna
+	pwd	: sýnir hvar þú ert staddur
+	mkdir	: býr til skrá
