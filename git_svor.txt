@@ -17,3 +17,5 @@
 	c) git diff commit1 commit2	:
 4. 	Hvað er útgáfustýring (e.version control)? 
 	eru mörg hugbúnaði verkfæri sem hjálpar sum hugbúnað lið til að stýra og breyta í source code.
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Getur unnið í verkefni yfir netið með öðru fólki.
