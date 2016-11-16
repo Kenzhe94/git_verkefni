@@ -21,3 +21,10 @@
 	Getur unnið í verkefni yfir netið með öðru fólki.
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	eins oft og hægt er, því ef maður geri villa getur þú farið til baka.
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory: er stakur athuga af ein útgáfa
+
+	Staging area: The staging area is a file, generally contained in your Git directory, 
+	that stores information about what will go into your next commit.
+
+	Repository: The Git directory is where Git stores the metadata and object database for your project.
