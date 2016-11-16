@@ -5,3 +5,13 @@
 	ls	: sýnir öll upplýsinga um skjölinn eða skránna
 	pwd	: sýnir hvar þú ert staddur
 	mkdir	: býr til skrá
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone	: býr til copy af local repository
+	git log		: 
+	git status	: listar skránna sem þu hefur breytt og sýnir þá sem þu átt eftir að bæta eða fremja
+	git diff	: sýnir öll sameina átök
+	git checkout	: skiftir frá einni grein í annar
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 	: sýnir öll sameina átök
+	b) git diff --staged 	:
+	c) git diff commit1 commit2	:
