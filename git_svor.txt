@@ -15,3 +15,5 @@
 	a) git diff 	: sýnir öll sameina átök
 	b) git diff --staged 	:
 	c) git diff commit1 commit2	:
+4. 	Hvað er útgáfustýring (e.version control)? 
+	eru mörg hugbúnaði verkfæri sem hjálpar sum hugbúnað lið til að stýra og breyta í source code.
